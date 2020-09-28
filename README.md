@@ -14,7 +14,7 @@ If you'd like to join, feel free to contact [Owen Churches](https://twitter.com/
 
 | Month - Year      | Book             | Author               | Moderator | Post-it Note Art| 
 | ----------------  |------------------|----------------------|-----------|-----------------|
-| December - 2020   | The Smart Wife   | Yolande Strengers and\ Jenny Kennedy | Laura |    |      
+| December - 2020   | The Smart Wife   | Yolande Strengers and<br/> Jenny Kennedy | Laura |    |      
 | November - 2020   | Future Histories | Lizzie O’Shea        | Barbara   |                 |
 | October - 2020    | Net Privacy      | Sacha Molitorisz     | Laura     |                 |
 | September - 2020  | Design Justice   | Sasha Costanza-Chock | Anisha    | <img src="https://pbs.twimg.com/media/EiVQe8bUwAIKA63?format=jpg&name=large" height="200" /> |
