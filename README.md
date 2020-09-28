@@ -2,13 +2,7 @@
 
 Welcome to the [Artificial Intelligence Collaborative Network](https://www.collaborativenetwork.ai/) AI Ethics Bookclub.
 
-We are a group of statisticians, lawyers, data scientists, sociologists, programmers and policy workers. We meet on the third Monday of each month disscuss a book that investigates the intersections of:
-* data
-* justice
-* statistics
-* politics
-* artificial inteligence
-* ethics
+We are a group of statisticians, lawyers, data scientists, sociologists, programmers and policy workers. We meet on the third Monday of each month disscuss a book that investigates the intersections of: data, justice, statistics, politics, artificial inteligence and ethics.
 
 Out meet-ups are online from 6pm to 7:30pm [Adelaide](https://time.is/Adelaide), South Australia time.
 
