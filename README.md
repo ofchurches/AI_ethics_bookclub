@@ -14,11 +14,11 @@ Out meet-ups are online from 6pm to 7:30pm [Adelaide](https://time.is/Adelaide),
 
 Read below to see the books we've read, are reading and will read. We also have a list (that grows faster than we can get though it) of books that we'd like to read in the future. 
 
-If you'd like to join, feel free to contact [Owen Churches](https://twitter.com/OwenChurches) for more information or join the [AICN](https://www.collaborativenetwork.ai/contact) Slack Workspace and find your way to the #ethics-bookclub channel. Its important to register through the channel because we have a [code of conduct](https://www.collaborativenetwork.ai/code-of-conduct) that we hold ourselves accountable to.
+If you'd like to join, feel free to contact [Owen Churches](https://twitter.com/OwenChurches) for more information or join the [AICN](https://www.collaborativenetwork.ai/contact) Slack Workspace yourself and find your way to the #ethics-bookclub channel. Its important to register through the channel because we have a [code of conduct](https://www.collaborativenetwork.ai/code-of-conduct) that we hold ourselves accountable to.
 
 # Reading list
 
 | Month - Year     | Book           | Author               | Moderator | Post-it Note Art| 
 | ---------------- |----------------|----------------------|-----------|-----------------|
-| September - 2020 | Design Justice | Sasha Costanza-Chock | Anisha    |<img src="https://pbs.twimg.com/media/EiVQe8bUwAIKA63?format=jpg&name=large" height="200" />
-
+| September - 2020 | Design Justice | Sasha Costanza-Chock | Anisha    | <img src="https://pbs.twimg.com/media/EiVQe8bUwAIKA63?format=jpg&name=large" height="200" /> |
+| August - 2020    | Deep Medicine  | Eric Topol           | Lisa      | <img src="https://pbs.twimg.com/media/EfiawxRVoAIRp2I?format=jpg&name=large" height="200" /> |
