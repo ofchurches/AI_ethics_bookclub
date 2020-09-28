@@ -16,4 +16,6 @@ If you'd like to join, feel free to contact [Owen Churches](https://twitter.com/
 | November - 2020   | Future Histories | Lizzie O’Shea                            | Barbara   |                 |
 | October - 2020    | Net Privacy      | Sacha Molitorisz                         | Laura     |                 |
 | September - 2020  | Design Justice   | Sasha Costanza-Chock                     | Anisha    | <img src="https://pbs.twimg.com/media/EiVQe8bUwAIKA63?format=jpg&name=large" height="200" /> |
-| August - 2020     | Deep Medicine    | Eric Topol           | Lisa              | <img src="https://pbs.twimg.com/media/EfiawxRVoAIRp2I?format=jpg&name=large" height="200" /> |
+| August - 2020     | Deep Medicine    | Eric Topol                               | Lisa      | <img src="https://pbs.twimg.com/media/EfiawxRVoAIRp2I?format=jpg&name=large" height="200" /> |
+| July - 2020       | Invisible Women  | Caroline Criado Perez                    | Kirsten   | <img src="https://pbs.twimg.com/media/EefVEg_U0AEpYOy?format=jpg&name=large" height="200" /> |
+
