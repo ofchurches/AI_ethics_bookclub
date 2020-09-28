@@ -10,20 +10,26 @@ If you'd like to join, feel free to contact [Owen Churches](https://twitter.com/
 
 # Reading list
 
-| Month - Year      | Book                                     | Author                                   | Moderator | Post-it Note Art| 
-| ----------------  |------------------------------------------|------------------------------------------|-----------|-----------------|
-| December - 2020   | The Smart Wife                           | Yolande Strengers and<br/> Jenny Kennedy | Laura     |                 |      
-| November - 2020   | Future Histories                         | Lizzie O’Shea                            | Barbara   |                 |
-| October - 2020    | Net Privacy                              | Sacha Molitorisz                         | Laura     |                 |
-| September - 2020  | Design Justice                           | Sasha Costanza-Chock                     | Anisha    | <img src="https://pbs.twimg.com/media/EiVQe8bUwAIKA63?format=jpg&name=large" height="200" /> |
-| August - 2020     | Deep Medicine                            | Eric Topol                               | Lisa      | <img src="https://pbs.twimg.com/media/EfiawxRVoAIRp2I?format=jpg&name=large" height="200" /> |
-| July - 2020       | Invisible Women                          | Caroline Criado Perez                    | Kirsten   | <img src="https://pbs.twimg.com/media/EefVEg_U0AEpYOy?format=jpg&name=large" height="200" /> |
-| June - 2020       | Uncanny Valley                           | Anna Weiner                              | Tobin     |                  |
-| May - 2020        | Rise of the Robots                       | Martin Ford                              | Sarsah    |                  |
-| April - 2020      | Bad Blood                                | John Carrreyeou                          | Laura     | <img src="https://pbs.twimg.com/media/EWA80LhUcAAZWqh?format=jpg&name=900x900" height="200" /> |
-| March - 2020      | Future Politics                          | Jamie Susskind                           | Kirsten   | <img src="https://pbs.twimg.com/media/ES8ShMRU0AAHjY2?format=jpg&name=900x900" height="200" /> |
-| February - 2020   | Rage Inside the Machine                  | Robert Elliott Smith                     | Anisha    |<img src="https://pbs.twimg.com/media/ESS5YKaWkAEbTbc?format=jpg&name=small" height="200" /> |
-| December - 2019 | Automating Inequality                      | Virginia Eubanks                         | Susan     | 
-| November - 2019 | Part 3: The Age of Surveillance Capitalism | Shoshana Zuboff                          | Sarah     | <img src="https://pbs.twimg.com/media/EJn_onWUUAAZ0Dz?format=jpg&name=small" height="200" /> |
+| Month - Year      | Book                                       | Author                                   | Moderator | Post-it Note Art| 
+| ----------------  |--------------------------------------------|------------------------------------------|-----------|-----------------|
+| December - 2020   | The Smart Wife                             | Yolande Strengers and<br/> Jenny Kennedy | Laura     |                 |      
+| November - 2020   | Future Histories                           | Lizzie O’Shea                            | Barbara   |                 |
+| October - 2020    | Net Privacy                                | Sacha Molitorisz                         | Laura     |                 |
+| September - 2020  | Design Justice                             | Sasha Costanza-Chock                     | Anisha    | <img src="https://pbs.twimg.com/media/EiVQe8bUwAIKA63?format=jpg&name=large" height="200" /> |
+| August - 2020     | Deep Medicine                              | Eric Topol                               | Lisa      | <img src="https://pbs.twimg.com/media/EfiawxRVoAIRp2I?format=jpg&name=large" height="200" /> |
+| July - 2020       | Invisible Women                            | Caroline Criado Perez                    | Kirsten   | <img src="https://pbs.twimg.com/media/EefVEg_U0AEpYOy?format=jpg&name=large" height="200" /> |
+| June - 2020       | Uncanny Valley                             | Anna Weiner                              | Tobin     |                  |
+| May - 2020        | Rise of the Robots                         | Martin Ford                              | Sarsah    |                  |
+| April - 2020      | Bad Blood                                  | John Carrreyeou                          | Laura     | <img src="https://pbs.twimg.com/media/EWA80LhUcAAZWqh?format=jpg&name=900x900" height="200" /> |
+| March - 2020      | Future Politics                            | Jamie Susskind                           | Kirsten   | <img src="https://pbs.twimg.com/media/ES8ShMRU0AAHjY2?format=jpg&name=900x900" height="200" /> |
+| February - 2020   | Rage Inside the Machine                    | Robert Elliott Smith                     | Anisha    |<img src="https://pbs.twimg.com/media/ESS5YKaWkAEbTbc?format=jpg&name=small" height="200" /> |
+| December - 2019   | Automating Inequality                      | Virginia Eubanks                         | Susan     | 
+| November - 2019   | Part 3: The Age of Surveillance Capitalism | Shoshana Zuboff                          | Sarah     | <img src="https://pbs.twimg.com/media/EJn_onWUUAAZ0Dz?format=jpg&name=small" height="200" /> |
+| October - 2019    | Part 2: The Age of Surveillance Capitalism | Shoshana Zuboff                          | Sal       |                  |
+| September - 2019  | Part 1: The Age of Surveillance Capitalism | Shoshana Zuboff                          | Barbara   | <img src="https://pbs.twimg.com/media/EEkj7-KU8AARTZS?format=jpg&name=900x900" height="200" /> |
+| August - 2019     | Weapons of Math Destruction                | Cathy O'Neil                             | Kristen   |                  |
+| July - 2019       | Algorithms of Oppresion                    | Safiya Noble                             | Toby      | <img src="https://pbs.twimg.com/media/D_gEtzrUEAApjWw?format=jpg&name=900x900" height="200" /> |
+| June - 2019       | Made By Humans                             | Ellen Broad                              | Owen      | <img src="https://pbs.twimg.com/media/D9QbLQpUIAAIiYV?format=jpg&name=large" height="200" /> |
+
 
 
