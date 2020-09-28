@@ -15,7 +15,7 @@
 | Robot Rules: Regulating Artificial Intelligence |	Jacob Turner	| Kat |
 | Twitter and Tear Gas: The Power and Fragility of Networked |	Zeynep Tufekci	| Kat |
 | Lawless: the secret rules that govern our digital lives	| Nicolas P. Suzor	| Owen |
-| Things That Make Us Smart: Defending Human Attributes In The Age Of The Machine	| Donald A. Norman	| Pedro Junqueira |
+| Things That Make Us Smart: Defending Human Attributes In The Age Of The Machine	| Donald A. Norman	| Pedro |
 | Privacy in Context	| Helen Nissenbaum	| |
 | The AI Mirror: Rebuilding Our Humanity in an Age of Machine Thinking |	Shannon Vallor	| Alicia |
 | Nobody’s Victim	| Carrie Goldberg	| Owen |
