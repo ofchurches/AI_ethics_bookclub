@@ -67,3 +67,4 @@
 |The Data Gaze: Capitalism, Power and Perception	| David Beer	| |
 |Algorithmic Life: Calculative Devices in the Age of Big Data	| Louise Amoore |	|
 |Hashtag Activism	| Sarah J. Jackson | |	
+| Black Software: The Internet & Racial Justice, from the AfroNet to Black Lives Matter | Charlton D. McIlwain | |
