@@ -20,5 +20,5 @@ If you'd like to join, feel free to contact [Owen Churches](https://twitter.com/
 
 | Month - Year     | Book           | Author               | Moderator | Post-it Note Art| 
 | ---------------- |----------------|----------------------|-----------|-----------------|
-| September - 2020 | Design Justice | Sasha Costanza-Chock | Anisha    |![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+| September - 2020 | Design Justice | Sasha Costanza-Chock | Anisha    |![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
 
