@@ -12,6 +12,8 @@ If you'd like to join, feel free to contact [Owen Churches](https://twitter.com/
 
 | Month - Year      | Book                                       | Author                                   | Moderator | Post-it Note Art| 
 | ----------------  |--------------------------------------------|------------------------------------------|-----------|-----------------|
+| February - 2021   | Race After Texhnology                      | Ruha Benjamin                            | Sarah     |                 |      
+| January - 2021    | No bookclub for summer holidays            |                                          |           |                 | 
 | December - 2020   | The Smart Wife                             | Yolande Strengers and<br/> Jenny Kennedy | Laura     |                 |      
 | November - 2020   | Future Histories                           | Lizzie O’Shea                            | Barbara   |                 |
 | October - 2020    | Net Privacy                                | Sacha Molitorisz                         | Laura     |                 |
