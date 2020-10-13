@@ -25,6 +25,7 @@ If you'd like to join, feel free to contact [Owen Churches](https://twitter.com/
 | April - 2020      | Bad Blood                                  | John Carrreyeou                          | Laura     | <img src="https://pbs.twimg.com/media/EWA80LhUcAAZWqh?format=jpg&name=900x900" height="200" /> |
 | March - 2020      | Future Politics                            | Jamie Susskind                           | Kirsten   | <img src="https://pbs.twimg.com/media/ES8ShMRU0AAHjY2?format=jpg&name=900x900" height="200" /> |
 | February - 2020   | Rage Inside the Machine                    | Robert Elliott Smith                     | Anisha    |<img src="https://pbs.twimg.com/media/ESS5YKaWkAEbTbc?format=jpg&name=small" height="200" /> |
+| January - 2021    | No bookclub for summer holidays            |                                          |           |                 | 
 | December - 2019   | Automating Inequality                      | Virginia Eubanks                         | Susan     | 
 | November - 2019   | Part 3: The Age of Surveillance Capitalism | Shoshana Zuboff                          | Sarah     | <img src="https://pbs.twimg.com/media/EJn_onWUUAAZ0Dz?format=jpg&name=small" height="200" /> |
 | October - 2019    | Part 2: The Age of Surveillance Capitalism | Shoshana Zuboff                          | Sal       |                  |
