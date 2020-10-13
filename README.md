@@ -11,7 +11,7 @@ If you'd like to join, feel free to contact [Owen Churches](https://twitter.com/
 # Reading list
 
 | Month - Year      | Book                                       | Author                                   | Moderator | Post-it Note Art| 
-| ----------------  |--------------------------------------------|------------------------------------------|-----------|-----------------|
+| ----------------  |----------------------------------|------------------------------------------|-----------|-----------------|
 | February - 2021   | Race After Texhnology                      | Ruha Benjamin                            | Sarah     |                 |      
 | January - 2021    | No bookclub for summer holidays            |                                          |           |                 | 
 | December - 2020   | The Smart Wife                             | Yolande Strengers and<br/> Jenny Kennedy | Laura     |                 |      
