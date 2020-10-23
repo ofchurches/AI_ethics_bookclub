@@ -16,7 +16,7 @@ If you'd like to join, feel free to contact one of [these](contact.md) club memb
 | January - 2021    | No bookclub for summer holidays            |                                          |           |                 | 
 | December - 2020   | The Smart Wife                             | Yolande Strengers and<br/> Jenny Kennedy | Laura     |                 |      
 | November - 2020   | Future Histories                           | Lizzie O’Shea                            | Barbara   |                 |
-| October - 2020    | [Net Privacy](wiki/Net-Privacy)            | Sacha Molitorisz                         | Laura     | <img src="https://pbs.twimg.com/media/EkLHRkgUcAM9hFZ?format=jpg&name=900x900" height="200" />                |
+| October - 2020    | [Net Privacy](../../wiki/Net-Privacy)      | Sacha Molitorisz                         | Laura     | <img src="https://pbs.twimg.com/media/EkLHRkgUcAM9hFZ?format=jpg&name=900x900" height="200" />                |
 | September - 2020  | Design Justice                             | Sasha Costanza-Chock                     | Anisha    | <img src="https://pbs.twimg.com/media/EiVQe8bUwAIKA63?format=jpg&name=large" height="200" /> |
 | August - 2020     | Deep Medicine                              | Eric Topol                               | Lisa      | <img src="https://pbs.twimg.com/media/EfiawxRVoAIRp2I?format=jpg&name=large" height="200" /> |
 | July - 2020       | Invisible Women                            | Caroline Criado Perez                    | Kirsten   | <img src="https://pbs.twimg.com/media/EefVEg_U0AEpYOy?format=jpg&name=large" height="200" /> |
