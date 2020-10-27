@@ -4,4 +4,4 @@ If you are interested in joining the bookclub and would like more information fe
 | ------------- |-------------|
 | Name 1        | Contact 1   |
 | Name 2        | Contact 2   |
-| Owen Churches | owen.churches@sahmri.com |
+| Owen Churches | [@owenchurches](https://twitter.com/OwenChurches)|
