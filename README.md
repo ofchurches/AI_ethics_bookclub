@@ -4,7 +4,7 @@ We are a group of statisticians, lawyers, data scientists, sociologists, program
 
 Read below to see the books we've read, are reading and will read. We also have a [list](future_reading.md#future-reading-list) (that grows faster than we can get though it) of books that we'd like to read in the future. 
 
-If you'd like to join, feel free to contact one of [these](contact.md) club members for more information or join the [AICN](https://www.collaborativenetwork.ai/contact) Slack Workspace yourself and find your way to the #ethics-bookclub channel. Its important to register through the channel because we have a [code of conduct](https://www.collaborativenetwork.ai/code-of-conduct) that we hold ourselves accountable to.
+If you'd like to join, feel free to contact one of [these](../blob/master/contact.md) club members for more information or join the [AICN](https://www.collaborativenetwork.ai/contact) Slack Workspace yourself and find your way to the #ethics-bookclub channel. Its important to register through the channel because we have a [code of conduct](https://www.collaborativenetwork.ai/code-of-conduct) that we hold ourselves accountable to.
 
 # Reading list
 
