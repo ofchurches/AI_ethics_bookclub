@@ -3,5 +3,5 @@ If you are interested in joining the bookclub and would like more information fe
 | Name          | Contact     |
 | ------------- |-------------|
 | Name 1        | Contact 1   |
-| Kirsten Wahlstrom| [Kirsten.Wahlstrom@unisa.edu.au](mailto:Kirsten.Wahlstrom@unisa.edu.au)|
+| Kirsten Wahlstrom| [Kirsten.Wahlstrom@unisa.edu.au](mailto:Kirsten.Wahlstrom@unisa.edu.au?subject=AI%20Ethics%20Bookclub)|
 | Owen Churches    | [@owenchurches](https://twitter.com/OwenChurches)|
