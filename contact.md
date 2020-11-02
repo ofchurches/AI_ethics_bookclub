@@ -3,5 +3,5 @@ If you are interested in joining the bookclub and would like more information fe
 | Name          | Contact     |
 | ------------- |-------------|
 | Name 1        | Contact 1   |
-| Name 2        | Contact 2   |
-| Owen Churches | [@owenchurches](https://twitter.com/OwenChurches)|
+| Kirsten Wahlstrom| [Kirsten.Wahlstrom@unisa.edu.au](mailto:Kirsten.Wahlstrom@unisa.edu.au)|
+| Owen Churches    | [@owenchurches](https://twitter.com/OwenChurches)|
